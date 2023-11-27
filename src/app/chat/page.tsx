@@ -130,7 +130,7 @@ export default function Chat() {
           </Button>
         </div>
         <span className="mx-auto mb-6 text-xs mt-3 text-center">
-          ChatGPT may produce inaccurate information about people, places, or
+          Mutunga may produce inaccurate information about people, places, or
           facts.
         </span>
       </div>

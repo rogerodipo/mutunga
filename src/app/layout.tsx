@@ -7,8 +7,8 @@ import ThemeProvider from "@/components/theme-provider";
 const font = Space_Grotesk({ subsets: ["latin"], variable: "--font" });
 
 export const metadata: Metadata = {
-  title: "ChatGPT",
-  description: "ChatGPT clone with simple design",
+  title: "Mutunga",
+  description: "Your knowledgeable co-counsel",
 };
 
 export default function RootLayout({
