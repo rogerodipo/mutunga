@@ -1,3 +1,3 @@
-# Mutunga
+# Haki
 
-Your ultimate co-counsel
+Let's get justice for your clients!
